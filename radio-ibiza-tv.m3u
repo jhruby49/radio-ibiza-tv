@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioIbizaTV" tvg-name="Radio Ibiza TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/radio-ibiza-tv/main/radio-ibiza-tv.png" group-title="Dance",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
